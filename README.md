@@ -1,6 +1,6 @@
 # erivasg89_portfolio
 
-Analitycs portfolio
+Analitycs & proyect
 
 # Portafolio de Edgar Axel R.G.
 
