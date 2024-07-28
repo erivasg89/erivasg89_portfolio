@@ -12,7 +12,10 @@ Me apasiona el análisis de datos, cuento con habilidades en limpieza y estructu
 
 ## Proyectos Destacados
 
+![Data Note](images/3 Data Note.jpg)
+![Data Note](images/4 Data Note.jpg)
 ![Data Note](images/5 Data Note.jpg)
+![Data Note](images/6 Data Note.jpg)
 
 ### Side Panel Extensión de Chrome: Data Note
 Una extensión de Chrome que permite recopilar datos a través de formularios y enviarlos a Google Sheets mediante la API de Google. Características:
@@ -20,7 +23,11 @@ Una extensión de Chrome que permite recopilar datos a través de formularios y 
 - Recopilación y organización eficiente de datos.
 - Interfaz de usuario intuitiva.
 
+![CRM](images/1 CRM.jpg)
 ![CRM](images/2 CRM.jpg)
+![CRM](images/3 CRM.jpg)
+![CRM](images/5 CRM.jpg)
+
 
 ### Side Panel Extensión de Chrome CRM
 Una extensión de Chrome que actúa como un CRM, punto de venta, y formulario de datos. Conectada a la API de Google Sheets para almacenar datos en Google Drive, facilitando la planificación de estrategias, inventarios y análisis financieros. Características:
