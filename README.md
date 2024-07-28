@@ -12,7 +12,7 @@ Me apasiona el análisis de datos, cuento con habilidades en limpieza y estructu
 
 ## Proyectos Destacados
 
-### [Side Panel Extensión de Chrome: Data Note](https://tu-usuario.github.io/data-note)
+### [Side Panel Extensión de Chrome: Data Note](images/1 Data Note.JPG)(images/2 Data Note.JPG)
 Una extensión de Chrome que permite recopilar datos a través de formularios y enviarlos a Google Sheets mediante la API de Google. Características:
 - Integración completa con Google Sheets.
 - Recopilación y organización eficiente de datos.
