@@ -47,8 +47,8 @@ Un dashboard interactivo diseñado para la mejora continua de los KPI's. Caracte
 
 Si tienes alguna pregunta o estás interesado en colaborar en un proyecto, no dudes en contactarme:
 
-- **Correo electrónico:** [tu-email@example.com](erivasg89@gmail.com)
-- **LinkedIn:** [Mi perfil de LinkedIn](www.linkedin.com/in/edgar-axel-rivas-godinez-b22566296)
+- **Correo electrónico:** [email@example.com](mailto:erivasg89@gmail.com)
+- **LinkedIn:** [Mi perfil de LinkedIn](https://www.linkedin.com/in/edgar-axel-rivas-godinez-b22566296)
 
 ## Licencia
 
