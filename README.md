@@ -34,6 +34,11 @@ Una extensión de Chrome que actúa como un CRM, punto de venta, y formulario de
 - Sincronización con Google Sheets para gestión de datos en tiempo real.
 - Automatización de tareas y generación de informes.
 
+![CRM](images/1 POS.jpg)
+![CRM](images/2 POS.jpg)
+![CRM](images/3 POS.jpg)
+![CRM](images/4 POS.jpg)
+
 ### Side Panel Extensión de Chrome Punto de Venta
 Una extensión de Chrome que actúa como un CRM, punto de venta, y formulario de datos. Conectada a la API de Google Sheets para almacenar datos en Google Drive, facilitando la planificación de estrategias, inventarios y análisis financieros. Características:
 - Panel lateral multifuncional.
