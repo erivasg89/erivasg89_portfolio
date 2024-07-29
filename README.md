@@ -14,7 +14,6 @@ Me apasiona el análisis de datos, cuento con habilidades en limpieza y estructu
 
 ![Data Note](images/3 Data Note.jpg)
 ![Data Note](images/4 Data Note.jpg)
-![Data Note](images/5 Data Note.jpg)
 ![Data Note](images/6 Data Note.jpg)
 
 ### Side Panel Extensión de Chrome: Data Note
